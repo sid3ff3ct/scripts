@@ -5,7 +5,8 @@
 #  in it. So for example, you should end up with a scans directory    
 #  containing files such as 80.txt, 443.txt, 53.tct, etc.       
 #  These files will contain the IP addresses that have that port open.    
-#                     
+#    
+#  Original Arthur: Alton Johnson
 #  Author: Daniel Brown                
 #  Contact: dbrow43@gmail.com              
 #  Updated: 01/08/2019
