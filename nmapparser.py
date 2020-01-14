@@ -6,6 +6,7 @@
 # This table can then be used to greb for specific content,
 # sort, parse, etc.
 # 
+# Original Author: Alton Johnson
 # Author: Daniel Brown
 # Updated: 01/07/2020
 # 
